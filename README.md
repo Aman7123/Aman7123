@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 | My Projects           |                                                                                                                                                                                                        |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| rarity-sys-api-ac      | [![BUILDER](https://github.com/Aman7123/rarity-sys-api-ac/actions/workflows/builder.yml/badge.svg?branch=main)](https://github.com/Aman7123/rarity-sys-api-ac/actions/workflows/builder.yml) |
-| image-sys-api-ac      | [![BUILDER](https://github.com/Aman7123/image-sys-api-ac/actions/workflows/builder.yml/badge.svg?branch=main)](https://github.com/Aman7123/image-sys-api-ac/actions/workflows/builder.yml) |
-| SteamLeaderboards-API | [![BUILDER](https://github.com/Aman7123/SteamLeaderboards-API/actions/workflows/BUILDER.yml/badge.svg?branch=master)](https://github.com/Aman7123/SteamLeaderboards-API/actions/workflows/BUILDER.yml) |
+| Discord Webhook API | [![RELEASE](https://github.com/Aman7123/discord-webhook-api-sb/actions/workflows/RELEASE.yml/badge.svg)](https://github.com/Aman7123/discord-webhook-api-sb/actions/workflows/RELEASE.yml) |
+| Rarity API in Camel | [![BUILDER](https://github.com/Aman7123/rarity-sys-api-ac/actions/workflows/builder.yml/badge.svg?branch=main)](https://github.com/Aman7123/rarity-sys-api-ac/actions/workflows/builder.yml) |
+| Image API in Camel | [![BUILDER](https://github.com/Aman7123/image-sys-api-ac/actions/workflows/builder.yml/badge.svg?branch=main)](https://github.com/Aman7123/image-sys-api-ac/actions/workflows/builder.yml) |
+| Steam Friend Leaderboard API | [![BUILDER](https://github.com/Aman7123/SteamLeaderboards-API/actions/workflows/BUILDER.yml/badge.svg?branch=master)](https://github.com/Aman7123/SteamLeaderboards-API/actions/workflows/BUILDER.yml) |
