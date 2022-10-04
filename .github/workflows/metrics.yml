@@ -19,3 +19,5 @@ jobs:
         with:
           filename: general.svg
           token: ${{ secrets.TOKEN }}
+          plugin_traffic: yes
+          plugin_languages: yes
