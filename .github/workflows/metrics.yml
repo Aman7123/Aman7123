@@ -17,7 +17,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: general.svg
+          filename: metrics.svg
           token: ${{ secrets.TOKEN }}
           plugin_traffic: yes
           plugin_languages: yes
